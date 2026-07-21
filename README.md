@@ -1,324 +1,237 @@
-# Google Maps Scraper - Free Chrome Extension for Google Maps Data Extraction
+# Google Maps Scraper — Extract Business Leads in One Click
 
-## Extract Business Leads from Google Maps with Our Free Google Maps Scraper
+> **Built & Maintained by [amanprojects](https://amanprojects.com)** ⚡
 
-**The most efficient Google Maps scraper and Google Maps extractor Chrome extension for lead generation.** Extract business data from Google Maps search results including emails, phone numbers, websites, and social profiles. Export to CSV/Excel with one click.
-
-### 🚀 Quick Start with Google Maps Scraper
-
-- **Install Google Maps Extractor:** [Add to Chrome](https://www.gmapsemailextractor.com/addtochrome)
-- **Watch Demo:** [See Google Maps Scraper in Action](https://www.youtube.com/watch?v=pT8y7gjMQqs)
+A powerful Chrome extension that extracts business leads from Google Maps search results — including emails, phone numbers, websites, social media profiles — and exports them to CSV/Excel with one click. **No limits. No login required.**
 
 ---
 
-## Customers
-- **Bank Statement Converter:** [Convert Bank PDF Statements to Excel](https://www.bankpdfstatementconverter.com/convert)
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Smart Search** | Search Google Maps directly from the extension popup |
+| ⚡ **Auto Extract** | Automatically scrolls & scrapes all results from the feed |
+| 📧 **Email Finder** | Deep-crawls websites to find emails & social profiles |
+| 📥 **Export CSV/XLSX** | One-click download — no limits, no quotas |
+| 🌍 **Global Support** | Works on all 200+ Google Maps country domains |
+| 🔒 **Privacy First** | All processing happens locally in your browser |
+| 🎨 **Premium UI** | Dark glassmorphism theme with smooth animations |
+| ♾️ **Unlimited** | No restrictions on scraping or downloads |
 
 ---
 
-## Why Choose Our Google Maps Scraper Chrome Extension?
+## 📊 Data Points Extracted
 
-Our **Google Maps scraper** is the leading solution for extracting business data from Google Maps. Whether you're looking for a **Google Maps extractor**, **Google Maps data scraper**, or **Google Maps email extractor**, this Chrome extension delivers:
+Our scraper captures comprehensive business information:
 
-### ✅ Key Benefits of Our Google Maps Extractor
-
-- **Free Google Maps Scraping:** Core features completely free, no credit card required
-- **Fast Extraction:** Scrape hundreds of Google Maps listings in minutes
-- **No Coding Required:** User-friendly interface for non-technical users
-- **Browser-Based:** Works directly in Chrome, no external software needed
-- **Privacy-First:** All Google Maps data extraction happens locally in your browser
-- **Auto-Pagination:** Automatically scrapes all pages of Google Maps results
-- **Smart Export:** One-click export to CSV or Excel format
-
-### 📊 Data Points Extracted by Google Maps Scraper
-
-Our **Google Maps data extractor** captures comprehensive business information:
-
-- **Business Name** - Company/establishment name from Google Maps
-- **Phone Number** - Direct business phone contact
-- **Website URL** - Official website link
-- **Email Address** - Business email (when publicly available)
-- **Social Media Profiles** - Facebook, Instagram, LinkedIn links
-- **Physical Address** - Complete street address
-- **Google Place ID** - Unique Google Maps identifier
-- **CID (Customer ID)** - Google's internal ID for the listing
-- **Rating & Reviews** - Star rating and review count
-- **Business Hours** - Operating hours (when available)
-- **Business Category** - Industry classification
-- **Plus Code** - Google's location code
+- **Business Name** — Company or establishment name
+- **Phone Number** — Direct business contact
+- **Website URL** — Official website link
+- **Email Address** — Extracted from business websites (deep search)
+- **Social Profiles** — Instagram, Facebook, LinkedIn, Twitter/X, YouTube, Yelp
+- **Physical Address** — Complete street address
+- **Google Place ID** — Unique Google Maps identifier
+- **CID** — Google's internal customer ID
+- **Star Rating** — Average review rating
+- **Review Count** — Total number of reviews
+- **Business Category** — Industry classification
+- **Business Hours** — Operating hours per day
+- **Lat/Lng Coordinates** — GPS coordinates
 
 ---
 
-## How to Use Google Maps Scraper - Step-by-Step Guide
+## 🚀 Quick Start
 
-### Getting Started with Google Maps Data Extraction
+### Installation
 
-1. **Install the Google Maps Extractor Extension**
+1. Download or clone this repository
+2. Open `chrome://extensions` in your browser
+3. Enable **Developer Mode** (top-right toggle)
+4. Click **Load Unpacked** and select the project folder
+5. The extension icon will appear in your toolbar
 
-   - Visit [our official website](https://link.zhihu.com/?target=https%3A%2F%2Fwww.gmapsemailextractor.com%2Faddtochrome)
-   - Click "Add to Chrome" to install the Google Maps scraper
+### Usage
 
-2. **Search on Google Maps**
-
-   - Open [Google Maps](https://maps.google.com)
-   - Search for businesses (e.g., "restaurants in New York", "dentists near me", "plumbers in Los Angeles")
-
-3. **Start Google Maps Scraping**
-
-   - Click the extension icon or use the overlay UI
-   - Select extraction options (all results or specific data points)
-   - Click "Start Extraction"
-
-4. **Export Google Maps Data**
-   - Review extracted data in the preview panel
-   - Choose export format (CSV or XLSX)
-   - Download your Google Maps leads instantly
-
-### Advanced Google Maps Scraper Features
-
-- **Bulk Extraction:** Scrape multiple Google Maps searches sequentially
-- **Filter Options:** Extract only businesses with websites, emails, or specific ratings
-- **Custom Fields:** Select which data points to include in your export
-- **Duplicate Detection:** Automatically removes duplicate listings
-- **Search History:** Save and repeat previous Google Maps searches
+1. **Click the extension icon** — a premium dark popup opens
+2. **Enter your search** — e.g. "restaurants near New York"
+3. **Click "Search Google Maps"** — opens Google Maps with your query
+4. **On Google Maps** — a floating panel appears on the left side
+5. **Click "Start Auto Extract"** — the scraper automatically scrolls through all results
+6. **Click "Export Leads"** — opens the dashboard with your extracted data
+7. **Download CSV or XLSX** — export instantly, no limits!
 
 ---
 
-## Use Cases for Google Maps Scraper
+## 🖥️ Screenshots
 
-### 🎯 Lead Generation with Google Maps Extractor
+### Extension Popup
+![Google Maps Scraper Popup](./screenshot/popup.png)
+_Premium dark-themed popup with search & stats_
 
-- **Sales Teams:** Build targeted prospect lists from Google Maps
-- **Marketing Agencies:** Extract local business data for outreach campaigns
-- **B2B Companies:** Find potential clients in specific industries and locations
+### Data Extraction Panel
+![Extraction UI on Google Maps](./screenshot/ui.png)
+_Floating overlay on Google Maps for controlling extraction_
 
-### 📍 Local SEO & Google Maps Data Analysis
-
-- **SEO Agencies:** Analyze local competition on Google Maps
-- **Business Consultants:** Research market saturation in specific areas
-- **Franchise Development:** Identify expansion opportunities using Google Maps data
-
-### 🏢 Business Intelligence & Google Maps Scraping
-
-- **Market Research:** Collect competitor data from Google Maps
-- **Real Estate:** Find businesses in specific neighborhoods
-- **Event Planning:** Extract venue information from Google Maps
+### Leads Dashboard
+![Extracted Leads Dashboard](./screenshot/demo_data.png)
+_Full data table with CSV/XLSX export options_
 
 ---
 
-## Screenshots - Google Maps Scraper in Action
+## 🏗️ Project Structure
 
-### Google Maps Data Extraction Results
-
-![Google Maps Scraper Results - Extracted Business Data](./screenshot/demo_data.png)
-_Sample data extracted using our Google Maps scraper Chrome extension_
-
-### Google Maps Extractor Interface
-
-![Google Maps Extractor UI - User Interface](./screenshot/ui.png)
-_Clean, intuitive interface for Google Maps data extraction_
-
-### Extension Popup Control Panel
-
-![Google Maps Scraper Extension Popup](./screenshot/popup.png)
-_Easy-to-use popup for controlling your Google Maps scraping_
-
----
-
-## Frequently Asked Questions about Google Maps Scraper
-
-### How many Google Maps listings can I scrape?
-
-The free version of our **Google Maps extractor** allows you to scrape up to 200 listings. Pro users can extract unlimited Google Maps data with no restrictions. Refer to the site pricing for more details.
-
-### Does the Google Maps scraper extract email addresses?
-
-Our **Google Maps email extractor** feature captures publicly displayed email addresses when available on Google Maps listings. Email availability varies by business and region.
-
-### Is Google Maps scraping legal?
-
-Web scraping publicly available data is generally legal, but users should:
-
-- Respect Google Maps Terms of Service
-- Use extracted data responsibly and ethically
-- Comply with local data protection regulations (GDPR, CCPA, etc.)
-- Only scrape publicly accessible information
-
-### Which browsers support this Google Maps extractor?
-
-Our **Google Maps scraper Chrome extension** works on:
-
-- Google Chrome (recommended)
-- Microsoft Edge
-- Brave Browser
-- Any Chromium-based browser
-
-### Can I scrape Google Maps on mobile?
-
-Currently, our **Google Maps data scraper** is designed for desktop browsers. Mobile support is planned for future releases.
-
-### Does the scraper work for all countries?
-
-Yes, our **Google Maps extractor** works globally wherever Google Maps is available. It supports all languages and regional Google Maps domains.
-
-### Can I schedule automatic Google Maps scraping?
-
-The current version requires manual initiation. Scheduled scraping is available in our Enterprise plan.
-
-### What's the difference between Google Maps scraper and API?
-
-Our **Google Maps scraper Chrome extension** is:
-
-- More affordable than Google Maps API
-- Easier to use (no programming required)
-- Provides data not available through official APIs
-- Perfect for small to medium-scale extraction
+```
+lead-scraper/
+├── popup.html              # Extension popup UI
+├── dashboard.html          # Data export dashboard
+├── bg.js                   # Service worker (background script)
+├── contentScript.js        # Main content script (scraping logic)
+├── contentScript2.js       # Script injector
+├── injected.js             # XHR interceptor for Google Maps API
+├── manifest.json           # Extension manifest (MV3)
+├── js/
+│   ├── popup.js            # Popup logic
+│   ├── dashboard.js        # Dashboard logic & table rendering
+│   └── util.js             # Utility functions
+├── css/
+│   ├── style.css           # Popup styles (dark theme)
+│   ├── dashboard.css       # Dashboard styles (dark theme)
+│   └── contentScript.css   # Overlay panel styles
+├── lib/                    # Third-party libraries
+│   ├── tabulator/          # Data table library
+│   ├── xlsx.full.min.js    # Excel export
+│   └── ...
+└── icons/                  # Extension icons
+```
 
 ---
 
-## Google Maps Scraper vs. Alternatives
+## 🎯 Use Cases
 
-| Feature              | Our Google Maps Scraper | Manual Copy-Paste | Google Maps API | Other Scrapers |
-| -------------------- | ----------------------- | ----------------- | --------------- | -------------- |
-| **Free Plan**        | ✅ Yes                  | ✅ Yes            | ❌ No           | ⚠️ Limited     |
-| **Speed**            | ⚡ Fast                 | 🐌 Very Slow      | ⚡ Fast         | ⚠️ Varies      |
-| **Ease of Use**      | ✅ Very Easy            | ✅ Easy           | ❌ Technical    | ⚠️ Varies      |
-| **Email Extraction** | ✅ Yes                  | ❌ No             | ❌ No           | ⚠️ Some        |
-| **Bulk Export**      | ✅ Yes                  | ❌ No             | ✅ Yes          | ✅ Yes         |
-| **No Coding**        | ✅ Yes                  | ✅ Yes            | ❌ No           | ⚠️ Some        |
+### Lead Generation
+- Build targeted prospect lists from any location
+- Extract contact info for cold outreach campaigns
+- Find businesses in specific industries and cities
+
+### Local SEO & Market Research
+- Analyze local competition in any area
+- Research market saturation for franchise development
+- Benchmark ratings and review counts
+
+### Business Intelligence
+- Collect competitor data at scale
+- Map business density across neighborhoods
+- Track business categories and trends
 
 ---
 
-## Technical Specifications
+## ⚙️ Technical Details
 
-### System Requirements for Google Maps Scraper
+### How It Works
 
-- **Browser:** Chrome 90+ or Chromium-based browser
-- **OS:** Windows 10+, macOS 10.14+, Linux (Ubuntu 18.04+)
+1. **XHR Interception** — `injected.js` hooks into Google Maps' internal API calls to capture search response data
+2. **Data Parsing** — `contentScript.js` processes the raw response and extracts structured business information
+3. **Email Extraction** — `bg.js` (service worker) crawls business websites to find emails and social links
+4. **Deep Search** — Automatically visits contact pages, about pages, etc. for comprehensive data
+5. **Export** — `dashboard.js` renders data in a Tabulator table and supports CSV/XLSX download via SheetJS
+
+### System Requirements
+
+- **Browser:** Chrome 90+, Edge, Brave, or any Chromium-based browser
+- **OS:** Windows, macOS, or Linux
 - **Internet:** Stable broadband connection
 
-### Data Export Formats
+### Permissions Used
 
-Our **Google Maps data extractor** supports:
-
-- **CSV** - Compatible with Excel, Google Sheets, and all spreadsheet software
-- **XLSX** - Native Excel format with formatting
-
----
-
-## Privacy & Security
-
-### How We Protect Your Data
-
-Our **Google Maps scraper** prioritizes your privacy:
-
-- ✅ **Local Processing:** All Google Maps data extraction happens in your browser
-- ✅ **No Data Storage:** We don't store or transmit scraped data to our servers
-- ✅ **Secure Extension:** Regular security audits and updates
-- ✅ **GDPR Compliant:** Follows data protection best practices
-- ✅ **Open Source Core:** Transparent codebase for security review
-
-### Data Usage Policy
-
-When using our **Google Maps extractor**:
-
-- You own all extracted data
-- We don't access your Google Maps searches
-- No tracking of scraping activities
-- Anonymous usage statistics only (optional)
+| Permission | Purpose |
+|-----------|---------|
+| `storage` | Store extracted leads locally |
+| `scripting` | Inject content scripts into Google Maps |
+| `tabs` | Open dashboard and Google Maps tabs |
+| `host_permissions` | Access websites for email extraction |
 
 ---
 
-## Support & Resources
+## 🛡️ Privacy & Security
 
-### Get Help with Google Maps Scraper
-
-- 📧 **Email Support:** [Contact Form](https://forms.gle/p5n1rDnwmrBWMQ3X6)
-- 🎥 **Video Tutorials:** [YouTube Channel](https://www.youtube.com/watch?v=pT8y7gjMQqs)
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/LeadGenerationTools/google-maps-extractor/issues)
-- **Install Docs:** [Install Docs](https://link.zhihu.com/?target=https%3A%2F%2Fwww.gmapsemailextractor.com%2Faddtochrome)
-
----
-
-## Best Practices for Google Maps Data Extraction
-
-### Optimize Your Google Maps Scraping
-
-1. **Search Strategy**
-
-   - Use specific search terms for better results
-   - Combine location + business type (e.g., "coffee shops in Seattle")
-   - Try different search variations for comprehensive data
-
-2. **Data Quality**
-
-   - Verify extracted emails and phone numbers
-   - Cross-reference websites for accuracy
-   - Remove duplicates before importing to CRM
-
-3. **Ethical Scraping**
-   - Respect rate limits
-   - Don't overload Google Maps servers
-   - Use data responsibly for legitimate business purposes
-
-### Common Google Maps Scraper Workflows
-
-- **Local Business Outreach:** Restaurant → Extract → Filter by rating → Export → Email campaign
-- **B2B Lead Generation:** Search industry → Extract companies → Filter by size → CRM import
-- **Competitor Analysis:** Search competitors → Extract data → Analyze patterns → Strategy planning
+- ✅ **100% Local Processing** — No data is sent to any external server
+- ✅ **No Account Required** — No login, no signup, no tracking
+- ✅ **No Analytics** — Zero telemetry or usage tracking
+- ✅ **Open Source** — Full transparency, audit the code yourself
+- ✅ **Your Data, Your Control** — All extracted data stays on your machine
 
 ---
 
-## Legal Disclaimer
+## 💡 Tips for Best Results
 
-**Google Maps** is a trademark of Google LLC. This **Google Maps scraper** Chrome extension is not affiliated with, endorsed by, or sponsored by Google LLC.
+1. **Be Specific** — "Italian restaurants in downtown Chicago" works better than just "restaurants"
+2. **Use "near" keyword** — "plumbers near Austin, TX" gives location-focused results
+3. **Let It Finish** — Auto Extract stops automatically when all results are loaded
+4. **Clear Between Searches** — Use the Clear button before starting a new extraction
+5. **Check Emails** — Email extraction depends on businesses having publicly visible contact info
 
-Users of this **Google Maps extractor** are responsible for:
+---
 
+## 🗺️ Supported Google Maps Domains
+
+Works on **200+ country-specific Google Maps domains** including:
+- google.com, google.co.uk, google.co.in, google.de, google.fr, google.es, google.com.br, google.co.jp, google.com.au, and many more.
+
+Full list is configured in `manifest.json` content_scripts matches.
+
+---
+
+## 📋 Comparison
+
+| Feature | This Extension | Manual Copy | Google Maps API | Other Tools |
+|---------|---------------|-------------|-----------------|-------------|
+| **Free** | ✅ Unlimited | ✅ | ❌ Paid | ⚠️ Limited |
+| **Speed** | ⚡ Fast | 🐌 Slow | ⚡ Fast | ⚠️ Varies |
+| **Email Extraction** | ✅ Deep search | ❌ | ❌ | ⚠️ Some |
+| **No Login** | ✅ | ✅ | ❌ | ❌ |
+| **Bulk Export** | ✅ CSV + XLSX | ❌ | ✅ | ✅ |
+| **No Coding** | ✅ | ✅ | ❌ | ⚠️ Some |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+**Google Maps** is a trademark of Google LLC. This extension is not affiliated with, endorsed by, or sponsored by Google LLC.
+
+Users are responsible for:
 - Complying with Google Maps Terms of Service
-- Following applicable data protection laws
-- Using extracted data ethically and legally
+- Following applicable data protection laws (GDPR, CCPA, etc.)
+- Using extracted data ethically and for legitimate business purposes
+- Respecting rate limits and not overloading servers
 
 This tool is provided "as is" for legitimate business purposes only.
 
 ---
 
-## Related Tools & Keywords
+## 🤝 Contributing
 
-Looking for similar tools? Our **Google Maps scraper** is also known as:
-
-- Google Maps extractor
-- Google Maps data scraper
-- Google Maps email extractor
-- Google Maps lead extractor
-- Google Maps business extractor
-- Chrome extension for Google Maps
-- Google Maps scraping tool
-- Google Maps data extraction software
-- Free Google Maps scraper
-- Google Maps contact extractor
-- Google Maps phone number extractor
-- Google Maps address scraper
-- Local business data extractor
-- Google Places scraper
-- Maps data harvester
+Contributions are welcome! Feel free to:
+- Report bugs via GitHub Issues
+- Submit pull requests with improvements
+- Suggest new features
 
 ---
 
-## Get Started with Google Maps Scraper Today
+## 📄 License
 
-Ready to supercharge your lead generation with the best **Google Maps scraper** available?
-
-### 🎯 [Install Google Maps Scraper Now - It's Free!](https://www.gmapsscraper.net/)
-
-Join thousands of businesses using our **Google Maps extractor** to:
-
-- Save hours of manual data collection
-- Build targeted prospect lists instantly
-- Grow their business with quality leads from Google Maps
-
-**Start extracting Google Maps data in less than 2 minutes!**
+This project is open source. See the license file for details.
 
 ---
 
-**Tags:** google maps scraper, google maps extractor, google maps data scraper, google maps email extractor, chrome extension, lead generation, business data extraction, local seo tool, free google maps scraper
+<div align="center">
+
+### ⚡ Built & Maintained by [amanprojects](https://amanprojects.com)
+
+**[amanprojects.com](https://amanprojects.com)** — Building tools that make a difference.
+
+</div>
+
+---
+
+**Tags:** google maps scraper, google maps extractor, google maps data scraper, google maps email extractor, chrome extension, lead generation, business data extraction, local seo tool, free google maps scraper, amanprojects
